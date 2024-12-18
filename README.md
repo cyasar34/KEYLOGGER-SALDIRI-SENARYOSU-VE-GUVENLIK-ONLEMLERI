@@ -15,7 +15,7 @@ KEYLOGGER SALDIRI SENARYOSU VE GÜVENLİK ÖNLEMLERİ
   
 *For Correspondence: cyasar@gelisim.edu.tr*
 
-## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilişim GÜvenliği Teknolojisi Programı'nda 2023-2024 Bahar döneminde yürütülen BGT106 Kişisel Güvenlik Teknolojileri dersinde gerçekleştirilen proje çalışmalarının sonuçlarına dayanmaktadır. ORCID Kimlikleri: 0000-0002-0765-861X, 0009-0003-4348-2038, 0009-0006-6999-9651.
+## Bu çalışma, İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu Bilişim Güvenliği Teknolojisi Programı'nda 2023-2024 Bahar döneminde yürütülen BGT106 Kişisel Güvenlik Teknolojileri dersinde gerçekleştirilen proje çalışmalarının sonuçlarına dayanmaktadır. ORCID Kimlikleri: 0000-0002-0765-861X, 0009-0003-4348-2038, 0009-0006-6999-9651.
 
 ** Kongre Bilgileri
 
