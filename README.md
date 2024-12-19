@@ -46,6 +46,7 @@ Anahtar Kelimeler: Siber güvenlik, Keylogger, BYOD, Metasploit, Nmap, Cisco Pac
 - **APA**: Yaşar, Ç., Hocaoğlu, A., & Karpuz, E. (2024).  Keylogger Saldırı Senaryosu Ve Güvenlik Önlemleri. Uluslararası 9. Socrates Sağlık, Mühendislik Ve Uygulamalı Bilimler Kongresi (pp.119-127). İstanbul, Turkey                            
 - **MLA**: Yaşar, ÇİSEM, Hocaoğlu, ABDULAZİZ ve Karpuz, EFE.  "Keylogger Saldırı Senaryosu Ve Güvenlik Önlemleri"  Uluslararası 9. Socrates Sağlık, Mühendislik Ve Uygulamalı Bilimler Kongresi , İstanbul, Turkey, pp.119-127, 2024               
 
+![alternatif metin](https://github.com/cyasar34/KEYLOGGER-SALDIRI-SENARYOSU-VE-GUVENLIK-ONLEMLERI/blob/main/keylogger_bildiri.png)
 License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
