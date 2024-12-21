@@ -2,7 +2,7 @@
 
 KEYLOGGER SALDIRI SENARYOSU VE GÜVENLİK ÖNLEMLERİ
 
-## Authors
+## Yazarlar
 
 - [**Çisem YAŞAR**](https://scholar.google.com/citations?user=uehmKvoAAAAJ&hl=tr)  
   İstanbul Gelişim Üniversitesi, İstanbul Gelişim Meslek Yüksekokulu, Bilgisayar Teknolojileri Bölümü, İstanbul / Türkiye
@@ -27,11 +27,11 @@ Kongre Tarihleri: 16-18 Ağustos 2024 İSTANBUL
 
 [Kongre İnternet Sayfası](https://ubsder.org.tr/uluslararasi-9-socrates-saglik-muhendislik-ve-uygulamali-bilimler-kongresi/)
 
-[Araştma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:_FxGoFyzp5QC)
+[Araştırma Google Akademik Linki](https://scholar.google.com/citations?view_op=view_citation&hl=tr&user=uehmKvoAAAAJ&citation_for_view=uehmKvoAAAAJ:_FxGoFyzp5QC)
 
-[Araştma ResearchGate Linki](https://www.researchgate.net/publication/384560661_KEYLOGGER_SALDIRI_SENARYOSU_VE_GUVENLIK_ONLEMLERI_KEYLOGGER_ATTACK_SIMULATION_AND_SECURITY_MEASURES_Abdulaziz_HOCAOGLU_Efe_KARPUZ)
+[Araştırma ResearchGate Linki](https://www.researchgate.net/publication/384560661_KEYLOGGER_SALDIRI_SENARYOSU_VE_GUVENLIK_ONLEMLERI_KEYLOGGER_ATTACK_SIMULATION_AND_SECURITY_MEASURES_Abdulaziz_HOCAOGLU_Efe_KARPUZ)
 
-[Araştma Sosyal Medya Linki](https://www.instagram.com/p/C-Nlr-kNd80/)
+[Araştırma Sosyal Medya Linki](https://www.instagram.com/p/C-Nlr-kNd80/)
 
 Öz:
 
