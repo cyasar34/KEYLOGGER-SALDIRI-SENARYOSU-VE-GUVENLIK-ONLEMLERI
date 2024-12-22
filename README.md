@@ -50,3 +50,4 @@ Anahtar Kelimeler: Siber güvenlik, Keylogger, BYOD, Metasploit, Nmap, Cisco Pac
 
 License:
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
+
